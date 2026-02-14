@@ -19,7 +19,7 @@ This is a static web project, so no package installation is required.
 3. Open your browser and go to:
    - `http://localhost:8000`
 
-You can also open `index.html` directly, but using a local server is recommended.
+You can also open `index.html` directly.
 
 ## AI Usage Summary
 AI was used for documentation support only (README and AI usage reporting).  
